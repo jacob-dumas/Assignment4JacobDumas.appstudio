@@ -25,6 +25,14 @@
             "States",
             "States.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "deleteCustomer",
+            "deleteCustomer.json"
+          ]
         }
       ],
       "configxml": null,
@@ -46,7 +54,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "States",
+      "firstform": "deleteCustomer",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
